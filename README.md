@@ -1,24 +1,5 @@
-# README
+# Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My solutions to The Odin Project's [Micro-Reddit](https://theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails#project-micro-reddit).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The Learning goal is how to use ActiveRecord class to build data model with validations and associations.
